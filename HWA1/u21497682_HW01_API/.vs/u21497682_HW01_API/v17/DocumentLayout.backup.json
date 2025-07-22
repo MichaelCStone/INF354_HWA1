@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE5DFFA-5FA1-4D04-BA35-7655BCA17FCF}|u21497682_HW01_API\\u21497682_HW01_API.csproj|solutionrelative:u21497682_hw01_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6BCBB4-ADCC-4997-BD5A-BA9046DC8C86}|u21497682_HW01_API.Tests\\u21497682_HW01_API.Tests.csproj|c:\\users\\mikes\\documents\\university\\year_3\\inf354_ha\\hwa1\\u21497682_hw01_api\\u21497682_hw01_api.tests\\controller\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6BCBB4-ADCC-4997-BD5A-BA9046DC8C86}|u21497682_HW01_API.Tests\\u21497682_HW01_API.Tests.csproj|solutionrelative:u21497682_hw01_api.tests\\controller\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "u21497682_HW01_API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:38:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Models\\Product.cs",
+              "RelativeToolTip": "u21497682_HW01_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:30:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "u21497682_HW01_API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:27:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "u21497682_HW01_API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:29:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "u21497682_HW01_API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:29:36.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\appsettings.json",
+              "RelativeDocumentMoniker": "u21497682_HW01_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API\\appsettings.json",
+              "RelativeToolTip": "u21497682_HW01_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T14:30:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API.Tests\\Controller\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "u21497682_HW01_API.Tests\\Controller\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\mikes\\Documents\\University\\Year_3\\INF354_HA\\HWA1\\u21497682_HW01_API\\u21497682_HW01_API.Tests\\Controller\\ProductControllerTests.cs",
+              "RelativeToolTip": "u21497682_HW01_API.Tests\\Controller\\ProductControllerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:32:36.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
