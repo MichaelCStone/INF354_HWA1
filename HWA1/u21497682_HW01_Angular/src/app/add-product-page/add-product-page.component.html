@@ -1,0 +1,19 @@
+<h1>Add New Product</h1>
+
+<form class="addProductForm" #productForm="ngForm" (ngSubmit)="onSubmit()">
+    <div id="productFields">
+        <label for="productName"><b>Name</b></label>
+        <input type="text" placeholder="Enter name" name="productName" [(ngModel)]="newProduct.product_Name" required />
+
+        <label for="productDescription"><b>Description</b></label>
+        <textarea placeholder="Enter description" name="productDescription" [(ngModel)]="newProduct.product_Description" required></textarea>
+
+        <label for="productPrice"><b>Price</b></label>
+        <input type="number" name="productPrice" [(ngModel)]="newProduct.product_Price" min="0" step="0.01" required />
+    </div>
+
+    <div id="buttonSection">
+        <button id="submitBtn" type="submit">Submit</button>
+        <button id="cancelBtn" type="button" (click)="cancel()">Cancel</button>
+    </div>
+</form>

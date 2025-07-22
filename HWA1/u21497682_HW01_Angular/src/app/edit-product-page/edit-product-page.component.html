@@ -1,0 +1,19 @@
+<h1>Edit Product</h1>
+
+<form class="editProductForm" #editProductForm="ngForm" (ngSubmit)="onSubmit()">
+    <div>
+        <label for="productName"><b>Name</b></label>
+        <input type="text" [(ngModel)]="product.product_Name" name="productName" required />
+
+        <label for="productDescription"><b>Description</b></label>
+        <textarea [(ngModel)]="product.product_Description" name="productDescription" required></textarea>
+
+        <label for="productPrice"><b>Product Price</b></label>
+        <input type="number" [(ngModel)]="product.product_Price" name="productPrice" min="0" step="0.01" required />
+    </div>
+
+    <div id="buttonSection">
+        <button type="submit" id="submitBtn">Product</button>
+        <button type="button" id="cancelBtn" (click)="cancel()">Cancel</button>
+    </div>
+</form>

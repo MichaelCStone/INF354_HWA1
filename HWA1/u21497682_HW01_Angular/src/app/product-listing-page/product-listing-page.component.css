@@ -1,0 +1,123 @@
+/* .product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.edit-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.edit-btn:hover {
+    background-color: #0056b3;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+} */
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Ensures 3 per row */
+    gap: 20px;
+    padding: 20px;
+    max-width: 960px; /* Limit width to maintain 3 per row */
+    margin: auto;
+}
+
+.product-card {
+    width: 30%; /* Adjust to fit three per row */
+    min-width: 280px; /* Prevent cards from becoming too small */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Ensures buttons align at bottom */
+    min-height: 250px; /* Ensures uniform card height */
+}
+
+.info-group {
+    padding: 10px;
+}
+
+h4 {
+    margin-bottom: 10px;
+}
+
+/* Ensure buttons stay at bottom */
+.button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+    background-color: rgba(0, 0, 0, 0.05); /* Slightly darker */
+    padding: 10px;
+    border-radius: 0 0 8px 8px; /* Rounded corners at bottom */
+}
+
+.edit-btn, .delete-btn {
+    flex: 1;
+    margin: 0 5px;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.edit-btn {
+    background-color: #007bff;
+}
+
+.delete-btn {
+    background-color: #dc3545;
+}
+
+.edit-btn:hover {
+    background-color: #0056b3;
+}
+
+.delete-btn:hover {
+    background-color: #c82333;
+}
